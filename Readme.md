@@ -1,4 +1,4 @@
-# clearNuclear
+# RANI
 
 software:   ubuntu16.04    theano  python2.7.12   keras   cuda8.0   CuDNN5.1 and etc
 hardware:   nvida gpus  https://developer.nvidia.com/cuda-gpus  (my gpu is GeForce GTX 960M)

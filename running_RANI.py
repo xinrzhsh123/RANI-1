@@ -66,7 +66,7 @@ list_of_nuclear_weightsFT=[list_of_nuclear_weightsFTB]+[list_of_nuclear_weightsF
 result_location = os.path.join('result_clearNuclear/')
 result1_location = os.path.join('result_clearNuclear/1_CNN/')
 result2_location = os.path.join('result_clearNuclear/2_CCNN/')
-result3_location = os.path.join('result_clearNuclear/3_FCCNN/')
+result3_location = os.path.join('result_clearNuclear/3_RANI/')
 if os.path.isdir(result_location):
      pass
 else: 
