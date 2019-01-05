@@ -159,7 +159,7 @@ python setup.py install --user
 ```
 
 ## 6) Running the experiment on Raw Data
-The code is written in Python, run the "clearNuclear_running.py" to segment the images in folder "original_Nuclear_images"
+The code is written in Python, run the "running_RANI.py" to segment the images in folder "original_Nuclear_images"
 The final results of fulll method is saved in result_clearNuclear/3_RANI
 
 
